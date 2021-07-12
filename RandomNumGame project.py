@@ -1,5 +1,5 @@
 import random
-
+print("hi")
 def randomNumGen() :
     RandomNum = random.randint(1,10)
     return RandomNum
