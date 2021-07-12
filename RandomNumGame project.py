@@ -1,5 +1,7 @@
 import random
 print("hi")
+print("How are you doing?")
+print("Whats your name?")
 def randomNumGen() :
     RandomNum = random.randint(1,10)
     return RandomNum
